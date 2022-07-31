@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "mj": "./bin/cli.js"
+    "mjb": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
   ],
   "keywords":[
     "mjb-cli",
-    "mj",
+    "mjb",
     "脚手架"
   ],
   "repository": {
